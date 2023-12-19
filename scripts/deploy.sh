@@ -32,4 +32,4 @@ php artisan migrate --force
 php artisan up
 
 echo "Deployment finished!"
-#change12344ee
+#change
