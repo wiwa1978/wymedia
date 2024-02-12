@@ -21,7 +21,7 @@
               </div>
             </div>
             <div class="hidden space-x-8 md:ml-10 md:flex">
-              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Product-Wim</a>
+              <a href="#" class="text-base font-medium text-white hover:text-gray-300">Product</a>
               <a href="#" class="text-base font-medium text-white hover:text-gray-300">Features</a>
               <a href="#" class="text-base font-medium text-white hover:text-gray-300">Marketplace</a>
               <a href="#" class="text-base font-medium text-white hover:text-gray-300">Company</a>
